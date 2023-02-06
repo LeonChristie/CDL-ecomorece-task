@@ -1,26 +1,31 @@
-[
+ [
     {
       "id": "A",
+      "Quantity": 0,
       "name": "Apple",
       "price": 50,
-      "imgUrl": "public/images/apple"
+      "imgURl": "https://freesvg.org/img/rotten-apple.png"
     },
     {
       "id": "B",
+      "Quantity": 0,
       "name": "Banana",
       "price": 30,
-      "imgUrl": "public/images/banana"
+      "imgURl": "./public/images/banana.png"
+      
     },
     {
       "id": "C",
+      "Quantity": 0,
       "name": "cantaloupe",
       "price": 20,
-      "imgUrl": "public/images/cantaloupe"
+      "imgURl": "./public/images/cantaloupe.svg"
     },
     {
       "id": "D",
+      "Quantity": 0,
       "name": "Desert Lime",
       "price": 15,
-      "imgUrl": "public/images/desertlime"
+      "imgURl": "./public/images/desertlime.svg"
     }
   ]
