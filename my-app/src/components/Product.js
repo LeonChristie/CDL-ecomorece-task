@@ -4,10 +4,7 @@ import { useState } from "react";
 import { DropdownButton } from "react-bootstrap";
 import StoreItems from "../data/items.json";
 
-// const addItems = (id) => {
-//    let selectedItemIndex = StoreItems.findIndex(x => x.id === id.id);
-//     console.log(StoreItems[selectedItemIndex])
-// }
+
 
 const Product = ({ id, name, price, imgURL, Quantity}) => {
  const [itemTotal, setItemTotal] = useState(0)
